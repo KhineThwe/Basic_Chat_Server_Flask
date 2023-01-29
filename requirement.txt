@@ -1,0 +1,9 @@
+Firstly,you need to install Flask module.
+-pip install flask
+-pip install flask-socketio
+
+Second
+-create main.py
+-render template for frontend
+
+
